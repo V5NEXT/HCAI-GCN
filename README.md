@@ -1,2 +1,2 @@
 # HCAI-GCN
-HCAI-Final Repo
+HCAI-Final Repo : GNN basic operations
