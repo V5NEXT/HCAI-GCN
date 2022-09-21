@@ -8,4 +8,4 @@ Description : The Cora dataset consists of 2708 scientific publications classifi
 Nodes = Publications (Papers, Books ...) Edges = Citations Node Features = word vectors 7 Labels = Pubilcation type e.g. Neural_Networks, Rule_Learning, Reinforcement_Learning, Probabilistic_Methods...
 
 # EDA.ipynb = Exploratory Data Analysis (visulization of the Dataset)
-# SingleNode_Edge_Operations.ipynb = Addition and Deletion of random Nodes, Addition and Deletion of Specific Nodes, Addition and Deletion of sedges
+# SingleNode_Edge_Operations.ipynb = Addition and Deletion of random Nodes, Addition and Deletion of Specific Nodes, Addition and Deletion of sedges.
