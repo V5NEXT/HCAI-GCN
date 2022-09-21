@@ -1,5 +1,5 @@
 # HCAI-GCN
-HCAI-Final Repo : GNN basic operations
+HCAI-Final Repo : GNN basic operations.
 
 # Dataset : Cora
 
